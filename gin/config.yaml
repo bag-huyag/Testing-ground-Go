@@ -1,0 +1,6 @@
+server:
+  port: "8080"
+
+auth:
+  username: "admin"
+  password: "password"
